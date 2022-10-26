@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Aman 👋
 
-<!--
-**aseth99/aseth99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer!
 
-Here are some ideas to get you started:
+### ⚡ Fun fact: I love to play hockey 🏒, snowboard in the mountains 🏂 and travel ✈️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="amanvasi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="amanseth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+[twitter]: https://twitter.com/amanvasi
+[linkedin]: https://linkedin.com/in/amanseth
